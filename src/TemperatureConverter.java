@@ -1,5 +1,3 @@
-package app;
-
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
