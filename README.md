@@ -19,3 +19,5 @@ Tentative de réécriture du repo TP1-squelette + TP1-correction du cours Polyte
     -   Dans le pom.xml
 -   [ ] Importance de mettre les fichierx fxml dans le dossier resources (sinon il ne seront pas trouvés
 -   [ ] Standardiser version Java car apparaît dans pom.xml (maven.compiler.source, maven.compiler.target, release). Java doit être en version > 8 (sinon ne marche pas avec IntelliJ) et < 24 (sinon messages de Warnings de dépréciation dans IntelliJ) et != 22 (sinon ne compile pas sous IntelliJ... Peut-être car c'est une version de Java non LTS ?) => Conclusion: Prendre Java 21 / un java déjà présent sur la machine avec lequel ça fonctionne ?
+- [ ] Résoudre erreurs "Float"
+- [ ] Résoudre charactères �
