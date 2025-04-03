@@ -1,11 +1,11 @@
 # VSCode files
-.vscode
+# .vscode
 
 # IntelliJ files
-.idea
+# .idea
 .mvn
 mvnw
 mvnw.cmd
 
 # Output things ?
-# target
+target
