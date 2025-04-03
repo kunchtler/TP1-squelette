@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch",
+            "request": "launch",
+            "mainClass": "app/app.TemperatureConverter",
+            "projectName": "temperature_converter",
+            "vmArgs": "--module-path <COMPLETER_CHEMIN_JAVAFX_LIB> --add-modules javafx.controls,javafx.fxml",
+            "modulePaths": []
+        },
+    ]
+}
